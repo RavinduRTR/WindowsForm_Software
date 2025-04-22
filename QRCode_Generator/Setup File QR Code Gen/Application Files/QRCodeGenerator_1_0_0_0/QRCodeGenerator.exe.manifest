@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="QRCodeGenerator.exe" version="1.0.0.0" publicKeyToken="ac78a138250a065e" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="QRCodeGenerator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="QRCodeGenerator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QRCodeGenerator.exe" size="571856">
+      <assemblyIdentity name="QRCodeGenerator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>dTKFxi50YMJjoJlg/SfnVco4WxZImAb3VAUfaTd+Tqw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QRCoder.dll" size="154112">
+      <assemblyIdentity name="QRCoder" version="1.6.0.0" publicKeyToken="C4ED5B9AE8358A28" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>WuJ5LHYmKUOk40FAu9ZLKqfZ7VxYImgMANnqoyJBJoA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="QRCodeGenerator.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=RAVINDUDPC\Ravindu" issuerKeyHash="6b39abe29b7f021a852e0b50cef643296bcc5646" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>uEY6vLYccqtjORqucQyHqwzpKOBhX5/SJIqUDrUqK3k=</DigestValue></Reference></SignedInfo><SignatureValue>i1A9Fk6OH2khd7z0Qf50UC7LvLPbsz1/zbemL2L5+m2DNXSlbDzJ1W+k6jEONS7jDCp7o7ZehSc990uQf73JxI+YvrfI38pdL8cUaL0ng7CR30orYbIRmn0DhjqsbQCk2kqf0lTqdBnCaD4Q7nUIlSS8RPDys6Z8siayG+ROrkI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qjpvKXHPlNXa8hhy7NoI9FYUaiO31Zcb4qg/aqiSK2JL3oQwsv7i2pBurnxAr0p6fh/mPc/fQz8s5YRRyaEoehbL04yOcqC9hZpLtuOwdKUp1SIHasZzYtK+Qhfd5PNQNOPMj8Kqs/OOM6CR9X1wtwdXEP10rzw+XkE5YN3ssf0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="792b2ab50e948a24d29f5f61e028e90cab870c71ae1a3963ab721cb6bc3a46b8" Description="" Url=""><as:assemblyIdentity name="QRCodeGenerator.exe" version="1.0.0.0" publicKeyToken="ac78a138250a065e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=RAVINDUDPC\Ravindu</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>FvgvF7gMrGfkombPCdHJtftEzHPAIerKQf0/4LBsAvw=</DigestValue></Reference></SignedInfo><SignatureValue>g9ITZrpv9PLPkoEKFcOp6Jpx93pfB0xU2p1PCMnqTlrdZ+thWBzJIwJvcpBwFi1WIjwZ9zWUVoHAxCHcWo/Zbv90OjHvpxGHUIntQK1it31dLY31hIIZ5wP3Cve/OofOwzLtm3+hdUpC6t8WKRoYoVUZyOh7JsCvYf+N5X/nA04=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qjpvKXHPlNXa8hhy7NoI9FYUaiO31Zcb4qg/aqiSK2JL3oQwsv7i2pBurnxAr0p6fh/mPc/fQz8s5YRRyaEoehbL04yOcqC9hZpLtuOwdKUp1SIHasZzYtK+Qhfd5PNQNOPMj8Kqs/OOM6CR9X1wtwdXEP10rzw+XkE5YN3ssf0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQEZdz6eyIwIZBeVam7t+/PzANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQAUgBBAFYASQBOAEQAVQBEAFAAQwBcAFIAYQB2AGkAbgBkAHUwHhcNMjUwNDAyMTkyNzUxWhcNMjYwNDAzMDEyNzUxWjAvMS0wKwYDVQQDHiQAUgBBAFYASQBOAEQAVQBEAFAAQwBcAFIAYQB2AGkAbgBkAHUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKo6bylxz5TV2vIYcuzaCPRWFGojt9WXG+KoP2qokitiS96EMLL+4tqQbq58QK9Ken4f5j3P30M/LOWEUcmhKHoWy9OMjnKgvYWaS7bjsHSlKdUiB2rGc2LSvkIX3eTzUDTjzI/CqrPzjjOgkfV9cLcHVxD9dK88Pl5BOWDd7LH9AgMBAAEwDQYJKoZIhvcNAQELBQADgYEAi7lfFImBAJntfy1rN2Nggkihm0FF54Hna5WjArXdbLyHL/lZWuc1y+HauLv+LciWdbJjotG1tQkZenVpEGzU32Y2trY81GdrY141bPds+5/h4tBcLU572Ds/8BbEKlYnlMVRGBI4q2YGNLsIlpI9NeGodADExbTf4fwxfc++2hU=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,44 @@
+C:\Users\thejar\Desktop\QR Code Generate Program\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe.config
+C:\Users\thejar\Desktop\QR Code Generate Program\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe
+C:\Users\thejar\Desktop\QR Code Generate Program\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.pdb
+C:\Users\thejar\Desktop\QR Code Generate Program\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCoder.dll
+C:\Users\thejar\Desktop\QR Code Generate Program\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.AssemblyReference.cache
+C:\Users\thejar\Desktop\QR Code Generate Program\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Form1.resources
+C:\Users\thejar\Desktop\QR Code Generate Program\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Properties.Resources.resources
+C:\Users\thejar\Desktop\QR Code Generate Program\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.GenerateResource.cache
+C:\Users\thejar\Desktop\QR Code Generate Program\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\thejar\Desktop\QR Code Generate Program\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGe.C333C8C0.Up2Date
+C:\Users\thejar\Desktop\QR Code Generate Program\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.exe
+C:\Users\thejar\Desktop\QR Code Generate Program\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.pdb
+D:\Programs\QRCode_Generator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe.config
+D:\Programs\QRCode_Generator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe
+D:\Programs\QRCode_Generator\QRCodeGenerator\bin\Debug\QRCodeGenerator.pdb
+D:\Programs\QRCode_Generator\QRCodeGenerator\bin\Debug\QRCoder.dll
+D:\Programs\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.AssemblyReference.cache
+D:\Programs\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Form1.resources
+D:\Programs\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Properties.Resources.resources
+D:\Programs\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.GenerateResource.cache
+D:\Programs\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.CoreCompileInputs.cache
+D:\Programs\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGe.C333C8C0.Up2Date
+D:\Programs\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.exe
+D:\Programs\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.pdb
+D:\Programs\QRCode_Generator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe.manifest
+D:\Programs\QRCode_Generator\QRCodeGenerator\bin\Debug\QRCodeGenerator.application
+D:\Programs\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.exe.manifest
+D:\Programs\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.application
+F:\Program\QRCode_Generator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe.config
+F:\Program\QRCode_Generator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe.manifest
+F:\Program\QRCode_Generator\QRCodeGenerator\bin\Debug\QRCodeGenerator.application
+F:\Program\QRCode_Generator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe
+F:\Program\QRCode_Generator\QRCodeGenerator\bin\Debug\QRCodeGenerator.pdb
+F:\Program\QRCode_Generator\QRCodeGenerator\bin\Debug\QRCoder.dll
+F:\Program\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.AssemblyReference.cache
+F:\Program\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Form1.resources
+F:\Program\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Properties.Resources.resources
+F:\Program\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.GenerateResource.cache
+F:\Program\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.CoreCompileInputs.cache
+F:\Program\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.exe.manifest
+F:\Program\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.application
+F:\Program\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGe.C333C8C0.Up2Date
+F:\Program\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.exe
+F:\Program\QRCode_Generator\QRCodeGenerator\obj\Debug\QRCodeGenerator.pdb
